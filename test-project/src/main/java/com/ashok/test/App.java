@@ -1,7 +1,7 @@
 package com.ashok.test;
 
 /**
- * Hello world!
+ * Example Hello world!
  *
  */
 public class App 
